@@ -1,0 +1,2 @@
+-- 사용자 : board_project
+-- 비밀번호 : board1234
